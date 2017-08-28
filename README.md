@@ -1,8 +1,7 @@
-# react-native-idfa
+# @ombori/grid-react-native-idfa
 
-How to use!
 ```
-import { IDFA } from 'react-native-idfa';
+import { IDFA } from '@ombori/grid-react-native-idfa';
 
 class Basic extends Component {
   state = {

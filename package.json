@@ -1,13 +1,14 @@
 {
-  "name": "@ombori/react-native-idfa",
+  "name": "@ombori/grid-react-native-idfa",
   "version": "1.0.0",
-  "description": "Android and iOS module to read IDFA",
+  "description": "React Native iOS module to read IDFA",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ombori/react-native-idfa.git"
+    "url": "git+https://github.com/ombori/grid-react-native-idfa.git"
   },
   "keywords": [
+    "grid-react-native-idfa"
     "react-native-idfa",
     "react-component",
     "react-components",
@@ -18,9 +19,8 @@
     "react-native",
     "component",
     "ios",
-    "android"
   ],
-  "author": "Tomas Roos <ptomasroos@gmail.com>",
+  "author": "Tomas Roos <ptomasroos@gmail.com>, Dmitry Demyankov <dmitry.demyankov@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
      "react-native": "*",
@@ -35,7 +35,7 @@
      "eslint-plugin-react": "^5.1.1"
    },
   "bugs": {
-    "url": "https://github.com/ombori/react-native-idfa/issues"
+    "url": "https://github.com/ombori/grid-react-native-idfa/issues"
   },
-  "homepage": "https://github.com/ombori/react-native-idfa#readme"
+  "homepage": "https://github.com/ombori/grid-react-native-idfa#readme"
 }
