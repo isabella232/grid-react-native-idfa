@@ -18,7 +18,7 @@
     "advertisingIdentifier",
     "react-native",
     "component",
-    "ios",
+    "ios"
   ],
   "author": "Tomas Roos <ptomasroos@gmail.com>, Dmitry Demyankov <dmitry.demyankov@gmail.com>",
   "license": "MIT",
